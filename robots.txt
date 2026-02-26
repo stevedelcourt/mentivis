@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-includes/
+Allow: /wp-content/
+Allow: /wp-content/uploads/
+Disallow: /BACKUP/
+Disallow: /preprod/
+Allow: /sitemap.xml
+
+Sitemap: https://mentivis.com/video-sitemap.xml
+Sitemap: https://mentivis.com/sitemap.xml
